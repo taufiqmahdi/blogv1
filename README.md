@@ -13,7 +13,7 @@ Simple website app with blog application. Also includes full authentication and 
 
 ## Built With
 
-- React JS
+- Laravel
 
 ## Author
 
